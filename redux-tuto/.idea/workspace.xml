@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c99e2ed0-6597-4f45-a94f-f6a0ac605d3c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/User.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/actions/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/Form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/components/List.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/List.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/constants/action-types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/constants/action-types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/css/buttons.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/css/buttons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/middleware/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/middleware/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/reducers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reactjs-redux-basics" beforeDir="false" afterPath="$PROJECT_DIR$/../reactjs-redux-basics" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/node_modules/" />
@@ -62,7 +48,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -241,12 +227,12 @@
       <workItem from="1556202645583" duration="319000" />
       <workItem from="1556202982504" duration="39000" />
       <workItem from="1556203056947" duration="648000" />
-      <workItem from="1556224865681" duration="14645000" />
+      <workItem from="1556224865681" duration="14650000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15651000" />
+    <option name="totallyTimeSpent" value="15656000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
