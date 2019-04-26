@@ -30,3 +30,5 @@ There are two key points for avoiding mutations in Redux:
 
 Using concat(), slice(), and …spread for arrays
     Using Object.assign() and …spread for objects*/
+
+//test commit de branche
