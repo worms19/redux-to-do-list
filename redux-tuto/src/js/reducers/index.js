@@ -1,4 +1,4 @@
-import {ADD_ARTICLE, REMOVE_ARTICLE} from "../constants/action-types";
+import {ADD_ARTICLE, REMOVE_ARTICLE, REMOVE_SPECIFIC_ARTICLE} from "../constants/action-types";
 
 
 const initialState = {
@@ -7,6 +7,7 @@ const initialState = {
 function rootReducer(state = initialState, action) {
     switch(action.type){
         case ADD_ARTICLE :
+            console.log(action.payload.id)
             return Object.assign({}, state, {
                 articles: state.articles.concat(action.payload)
             });
@@ -18,6 +19,16 @@ function rootReducer(state = initialState, action) {
                 });
             }
             return state;
+        case REMOVE_SPECIFIC_ARTICLE :
+            console.log("id to delete " + action.payload.idToDelete);
+            console.log("liste of ids " + state.articles.id);
+
+
+           return Object.assign({}, state, {
+                articles: state.articles.filter(articles => articles.id !== action.payload.idToDelete)
+
+            });
+
         default : return state;
     }
 
